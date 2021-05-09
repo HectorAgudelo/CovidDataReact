@@ -1,1 +1,1 @@
-# React_Demo
+# CovidData-React
